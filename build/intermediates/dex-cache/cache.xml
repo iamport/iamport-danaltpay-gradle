@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jang/.android/build-cache/8a2689f0ed5760abc1e91a12e5af4baffea1c24a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0eaee94d6fdc89a4402c6e69d2373d8dc941c336/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jang/.android/build-cache/8a2689f0ed5760abc1e91a12e5af4baffea1c24a/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_5090ae3259b3e080652b583b82bcc0a10fd3a59d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_fd08aa4445b2e79bc1366342c4168608b3a22c3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jang/.android/build-cache/a976fa53933af2024054c17d767559846bc862af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62a7840f4cc0f7f6d3f9ddbec190652cd36ba9bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="58d5fc3bccc07d918bb304d84340c04447debbec">
+        <dex dex="/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b5492a69d3f312b8c33a074582d6606b7ac50acd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_939eb3429158f7c1698f7ea5d8ec5697c2541bb6/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+#Thu Jan 25 14:02:12 KST 2018
+base.0=/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

@@ -1,0 +1,7 @@
+#Thu Jan 25 14:02:13 KST 2018
+base.0=/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_939eb3429158f7c1698f7ea5d8ec5697c2541bb6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b5492a69d3f312b8c33a074582d6606b7ac50acd/classes.dex
+base.1=/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b5492a69d3f312b8c33a074582d6606b7ac50acd
+file.0=/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_939eb3429158f7c1698f7ea5d8ec5697c2541bb6/classes.dex

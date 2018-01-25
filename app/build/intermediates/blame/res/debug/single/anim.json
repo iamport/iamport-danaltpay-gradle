@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/jang/.android/build-cache/a976fa53933af2024054c17d767559846bc862af/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/jang/.android/build-cache/a976fa53933af2024054c17d767559846bc862af/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/jang/.android/build-cache/a976fa53933af2024054c17d767559846bc862af/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/jang/.android/build-cache/a976fa53933af2024054c17d767559846bc862af/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/jang/.android/build-cache/a976fa53933af2024054c17d767559846bc862af/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/jang/.android/build-cache/a976fa53933af2024054c17d767559846bc862af/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]

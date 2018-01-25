@@ -1,0 +1,13 @@
+#Thu Jan 25 11:58:11 KST 2018
+renamed.3=classes4.dex
+renamed.2=classes.dex
+renamed.1=classes3.dex
+renamed.0=classes2.dex
+base.3=/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0eaee94d6fdc89a4402c6e69d2373d8dc941c336
+base.2=/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_fd08aa4445b2e79bc1366342c4168608b3a22c3a
+base.1=/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_5090ae3259b3e080652b583b82bcc0a10fd3a59d
+base.0=/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62a7840f4cc0f7f6d3f9ddbec190652cd36ba9bb
+file.3=/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0eaee94d6fdc89a4402c6e69d2373d8dc941c336/classes.dex
+file.2=/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_fd08aa4445b2e79bc1366342c4168608b3a22c3a/classes.dex
+file.1=/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_5090ae3259b3e080652b583b82bcc0a10fd3a59d/classes.dex
+file.0=/Users/jang/Documents/dev/iamport/github/IamportDanalAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62a7840f4cc0f7f6d3f9ddbec190652cd36ba9bb/classes.dex
